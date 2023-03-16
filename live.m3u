@@ -237,3 +237,25 @@ http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941625&extensi
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156394&extension=ts&play_token=UEKTIim7lP
 #EXTINF:-1 group-title="港澳台",TVBS亚洲
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571185&extension=ts&play_token=wD7CZpooiF
+#EXTINF:-1 group-title="港澳台",Fairchild 2
+http://hardcoremedia.xyz:80/c9VgmPqGm/8qp7XPc5Av/16745
+#EXTINF:-1 group-title="港澳台",Fairchild Television
+http://hardcoremedia.xyz:80/c9VgmPqGm/8qp7XPc5Av/16746
+#EXTINF:-1 group-title="港澳台",Fairchild Television Mandarin
+http://hardcoremedia.xyz:80/c9VgmPqGm/8qp7XPc5Av/16747
+#EXTINF:-1 group-title="港澳台",Fairchild Television West
+http://hardcoremedia.xyz:80/c9VgmPqGm/8qp7XPc5Av/16748
+#EXTINF:-1 group-title="港澳台",WEATHER NETWORK
+http://hardcoremedia.xyz:80/c9VgmPqGm/8qp7XPc5Av/16834
+#EXTINF:-1 group-title="港澳台",(SH) TVB Jade (D)
+http://dontuse1.strmz.cc:2082/mdaley99/DaUGMWipjG/2186043
+#EXTINF:-1 group-title="港澳台",(SH) TVB Xing He (D)
+http://dontuse1.strmz.cc:2082/mdaley99/DaUGMWipjG/2186042
+#EXTINF:-1 group-title="港澳台",(SH) TVBS Asia (D)
+http://dontuse1.strmz.cc:2082/mdaley99/DaUGMWipjG/2186041
+#EXTINF:-1 group-title="港澳台",(SH) TVBS-NEWS (D)
+http://dontuse1.strmz.cc:2082/mdaley99/DaUGMWipjG/2186040
+#EXTINF:-1 group-title="港澳台",S(SH) Phoenix Chinese Channel (D)
+http://dontuse1.strmz.cc:2082/mdaley99/DaUGMWipjG/2186060
+#EXTINF:-1 group-title="港澳台",(SH) Phoenix InfoNews Channel (D)
+http://dontuse1.strmz.cc:2082/mdaley99/DaUGMWipjG/2186059
