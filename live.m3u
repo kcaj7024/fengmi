@@ -145,8 +145,8 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="电影频道",欧美大片
 http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1 group-title="电影频道",凤凰电影
-http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
+#EXTINF:-1 group-title="电影频道",电影1
+http://tc-tct.douyucdn2.cn/dyliveflv3/3637726rQLDdfto7.flv?wsAuth=92c197e24b4c55da09addebcded2f4ff&token=cpn-androidmpro-0-3637726-a97a3241d761383493862f6c95a22c2a71a10ab92caa8f7f&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 #EXTINF:-1 group-title="电影频道",美食李子柒]
 http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 #EXTINF:-1 group-title="电影频道",KK_女神影院
