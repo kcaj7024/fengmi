@@ -111,13 +111,13 @@ http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571185&extensi
 http://epg.112114.xyz/douyu/8985415
 #EXTINF:-1 group-title="电影频道",斗鱼电影2
 http://epg.112114.xyz/douyu/9650887
-#EXTINF:-1 group-title="电影频道",斗鱼电影-欧美
+#EXTINF:-1 group-title="电影频道",斗鱼电影-欧美1
 http://epg.112114.xyz/douyu/36337
-#EXTINF:-1 group-title="电影频道",斗鱼电影-欧美
+#EXTINF:-1 group-title="电影频道",斗鱼电影-欧美2
 http://epg.112114.xyz/douyu/96577
-#EXTINF:-1 group-title="电影频道",斗鱼电影-欧美
+#EXTINF:-1 group-title="电影频道",斗鱼电影-欧美3
 http://epg.112114.xyz/douyu/6140589
-#EXTINF:-1 group-title="电影频道",斗鱼电影-欧美
+#EXTINF:-1 group-title="电影频道",斗鱼电影-欧美4
 http://epg.112114.xyz/douyu/20415
 #EXTINF:-1 group-title="电影频道",斗鱼电影7
 http://epg.112114.xyz/douyu/122402
@@ -125,11 +125,11 @@ http://epg.112114.xyz/douyu/122402
 http://epg.112114.xyz/douyu/9292492
 #EXTINF:-1 group-title="电影频道",斗鱼电影9
 http://epg.112114.xyz/douyu/2516864
-#EXTINF:-1 group-title="电影频道",斗鱼电影-欧美
+#EXTINF:-1 group-title="电影频道",斗鱼电影-欧美5
 http://epg.112114.xyz/douyu/4332
-#EXTINF:-1 group-title="电影频道",斗鱼电影-欧美
+#EXTINF:-1 group-title="电影频道",斗鱼电影-欧美6
 http://epg.112114.xyz/douyu/8814650
-#EXTINF:-1 group-title="电影频道",斗鱼电影-欧美
+#EXTINF:-1 group-title="电影频道",斗鱼电影-欧美7
 http://epg.112114.xyz/douyu/8945323
 #EXTINF:-1 group-title="电影频道",斗鱼电影15
 http://epg.112114.xyz/douyu/2436390
@@ -585,9 +585,3 @@ http://epg.112114.xyz/douyu/9172774
 http://epg.112114.xyz/douyu/4834417
 #EXTINF:-1 group-title="斗鱼",斗鱼旅行18
 http://epg.112114.xyz/douyu/2240445
-#EXTINF:-1 group-title="电影频道",金马影院
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 group-title="电影频道",黑莓电影
-http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
-#EXTINF:-1 group-title="电影频道",黑莓电影
-http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
