@@ -133,16 +133,6 @@ http://epg.112114.xyz/douyu/8814650
 http://epg.112114.xyz/douyu/8945323
 #EXTINF:-1 group-title="电影频道",斗鱼电影15
 http://epg.112114.xyz/douyu/2436390
-#EXTINF:-1 group-title="斗鱼",鱼电视剧HD1
-http://epg.112114.xyz/douyu/2838296
-#EXTINF:-1 group-title="斗鱼",鱼电视剧HD2
-http://epg.112114.xyz/douyu/7489563
-#EXTINF:-1 group-title="斗鱼",鱼电视剧HD3
-http://epg.112114.xyz/douyu/6706214
-#EXTINF:-1 group-title="斗鱼",鱼电视剧HD4
-http://epg.112114.xyz/douyu/6566658
-#EXTINF:-1 group-title="电影频道",斗鱼电影4K
-http://epg.112114.xyz/douyu/9249162
 #EXTINF:-1 group-title="电影频道",斗鱼电影HD1
 http://epg.112114.xyz/douyu/4246519
 #EXTINF:-1 group-title="电影频道",斗鱼电影HD2
@@ -217,6 +207,14 @@ http://epg.112114.xyz/douyu/9435180
 http://epg.112114.xyz/douyu/3756989
 #EXTINF:-1 group-title="斗鱼",斗鱼电视剧HD15
 http://epg.112114.xyz/douyu/6478650
+#EXTINF:-1 group-title="斗鱼",鱼电视剧HD1
+http://epg.112114.xyz/douyu/2838296
+#EXTINF:-1 group-title="斗鱼",鱼电视剧HD4
+http://epg.112114.xyz/douyu/7489563
+#EXTINF:-1 group-title="斗鱼",鱼电视剧HD5
+http://epg.112114.xyz/douyu/6706214
+#EXTINF:-1 group-title="斗鱼",鱼电视剧HD14
+http://epg.112114.xyz/douyu/6566658
 #EXTINF:-1 group-title="斗鱼",斗鱼电视剧1
 http://epg.112114.xyz/douyu/299854
 #EXTINF:-1 group-title="斗鱼",斗鱼电视剧2
